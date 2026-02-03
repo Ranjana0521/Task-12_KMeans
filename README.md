@@ -93,7 +93,3 @@ Output File:
 Mall_Customers_Segmented.csv
 ```
 ---
-
-
-Just say 👍
-
